@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey there <img src="https://media3.giphy.com/media/JTbfNWrVKzIxcLzwBO/giphy.gif" width="25px">
 
-<!--
-**ngbao161199/ngbao161199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm [Bao Nguyen](https://github.com/ngbao161199), a Product Owner 🚀 from Vietnam, currently working in [Zalo](https://zalo.me/pc). enjoy discovering interesting insights from data and have perseverance for long-term goals.
+  
+<details>
+<summary>📈 My Memories as a Coder</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=ngbao161199&show_icons=true&theme=gotham" alt="ngbao161199" />
+</details>
